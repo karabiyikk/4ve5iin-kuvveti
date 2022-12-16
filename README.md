@@ -1,2 +1,2 @@
-# 4ve5iin-kuvveti
+# 4ve5in-kuvveti
 Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran programı yazıyoruz
